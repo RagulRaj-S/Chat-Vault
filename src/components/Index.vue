@@ -1,5 +1,5 @@
 <template>
-      <div class="home" style="background-color:rgb(10, 25, 47);">
+      <div class="home" style="background-color:rgb(10, 25, 47)!important;">
         <nav>
           <div class="nav-wrapper">
             <img class="responsive-img img2" src="../assets/img.png">
@@ -9,7 +9,7 @@
             </ul>
           </div>
         </nav>
-        <div class="row main" style="margin-top:0;">
+        <div class="row main">
           <div class="column" style="background-color:rgb(10, 25, 47); text-align:center;">
             <h2>A Better way to talk with <br/>website visitors.</h2>
           <img class="responsive-img" src="../assets/img1.jpg">
@@ -106,7 +106,7 @@ export default {
     height: 100vh;
     width: 100vw;
     display: grid;
-    background-color:rgb(10, 25, 47)!important;
+    /* background-color:rgb(10, 25, 47)!important; */
 }
 .n1{
     padding-left: 20px!important;
