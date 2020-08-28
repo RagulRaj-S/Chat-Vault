@@ -17,7 +17,7 @@
           <div class="column" style="background-color:rgb(10, 25, 47); padding-top:0;">
             <h4>Hi,{{ name }}!</h4>
             <!-- <h6>Get started by messaging a friend below.</h6> -->
-            <h3>Get started by messaging a friend below.</h3>
+            <h5>Get started by messaging a friend below.</h5>
             <div class="row" style="margin-top:8%;">
               <div class="input-field col s6" style="padding-left: 0;">
                 <a class="waves-effect waves-light btn btn-join" @click="createChatId" style="height:56.5px">Start Chat</a>
@@ -153,7 +153,7 @@ h4 {
   color: rgb(100, 255, 218);
   text-align: center;
 }
-h3 {
+h5 {
   font-size: 2rem;
   font-weight: 300;
   color:rgba(255, 255, 255, 0.404);
