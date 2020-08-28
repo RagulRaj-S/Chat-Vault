@@ -10,7 +10,7 @@
         </nav>
         <div class="row main">
           <div class="column">
-            <h2>Hello Friends!</h2>
+            <h3>Hello Friends!</h3>
             <p>To stay connected with us please do sign-up with Google..</p>
             <div class="col s12 m6 offset-m3 center-align" style="text-align:center">
               <button v-on:click="func()" class="oauth-container btn darken-4 white black-text signup" style="text-transform:none">
@@ -101,7 +101,7 @@ export default {
     margin: 0;
     margin-top: 40px;
 }
-h2 {
+h3 {
   /* font-family: 'Google Sans Display',Roboto,Arial,sans-serif; */
   font-family: 'Lobster', cursive;
   font-family: 'Nosifer', cursive;
