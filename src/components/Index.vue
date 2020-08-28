@@ -154,9 +154,9 @@ h4 {
   text-align: center;
 }
 h5 {
-  font-size: 2rem;
+  font-size: 1.6rem;
   font-weight: 300;
-  color:rgba(255, 255, 255, 0.404);
+  color:rgba(255, 255, 255, 0.404)!important;
   text-align: center;
 }
 h6 {

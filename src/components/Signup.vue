@@ -104,7 +104,7 @@ export default {
 h3 {
   font-family: 'Google Sans Display',Roboto,Arial,sans-serif;
   font-size: 3.15rem;
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: 0;
   line-height: 3.25rem;
   text-align: center;
