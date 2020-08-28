@@ -1,5 +1,5 @@
 <template>
-    <div class="home">
+    <div class="page">
         <nav>
           <div class="nav-wrapper">
             <img class="responsive-img img2" src="../assets/img.png">
@@ -71,7 +71,7 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Nosifer&display=swap');
-  .home {
+  .page {
     height: 100vh;
     width: 100vw;
     display: grid;

@@ -1,5 +1,5 @@
  <template>
-   <div class="page">
+   <div class="page1">
      <nav>
         <div class="nav-wrapper">
           <img class="responsive-img img2" src="../assets/img.png">
@@ -63,7 +63,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
-.page {
+.page1 {
   height: 100vh;
   width: 100vw;
   display: grid;
