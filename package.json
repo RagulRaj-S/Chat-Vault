@@ -5,7 +5,8 @@
   "author": "Sanjay B <sanjayjothi2000@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    // "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "dev": "node build/dev-server.js",
     "start": "node server.js",
     "build": "node build/build.js"
   },

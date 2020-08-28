@@ -1,5 +1,5 @@
 <template>
-      <div class="home">
+      <div class="home" style="background-color:rgb(10, 25, 47);">
         <nav>
           <div class="nav-wrapper">
             <img class="responsive-img img2" src="../assets/img.png">
@@ -106,7 +106,7 @@ export default {
     height: 100vh;
     width: 100vw;
     display: grid;
-    background-color:rgb(10, 25, 47)!important ;
+    background-color:rgb(10, 25, 47)!important;
 }
 .n1{
     padding-left: 20px!important;
