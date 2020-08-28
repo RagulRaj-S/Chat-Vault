@@ -8,7 +8,7 @@
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "node server.js",
     "build": "node build/build.js",
-    "heroku-postbuild": "npm i && npm run build"
+    "heroku-postbuild": "cd vue-chat && npm i && npm run build"
   },
   "dependencies": {
     "connect-history-api-fallback": "^1.6.0",
