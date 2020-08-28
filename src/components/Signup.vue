@@ -102,9 +102,7 @@ export default {
     margin-top: 40px;
 }
 h3 {
-  /* font-family: 'Google Sans Display',Roboto,Arial,sans-serif; */
-  font-family: 'Lobster', cursive;
-  font-family: 'Nosifer', cursive;
+  font-family: 'Google Sans Display',Roboto,Arial,sans-serif;
   font-size: 3.15rem;
   font-weight: 400;
   letter-spacing: 0;
